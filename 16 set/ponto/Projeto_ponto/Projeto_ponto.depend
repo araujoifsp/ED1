@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1663373576 source:i:\ifsp\2º semestre\ed1\tad\ponto\projeto_ponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1663373240 i:\ifsp\2º semestre\ed1\tad\ponto\projeto_ponto\ponto.h
+
+1663373594 source:i:\ifsp\2º semestre\ed1\tad\ponto\projeto_ponto\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Ponto.h"
+
+1663373896 source:e:\ifsp\2º semestre\ed1\tad\ponto\projeto_ponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1663373240 e:\ifsp\2º semestre\ed1\tad\ponto\projeto_ponto\ponto.h
+
+1663373594 source:e:\ifsp\2º semestre\ed1\tad\ponto\projeto_ponto\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Ponto.h"
+

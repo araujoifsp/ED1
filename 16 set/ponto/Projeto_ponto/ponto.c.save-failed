@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <Ponto.h> //inclui os prototipos
+
+//definição de tipos de dados
+
+struct ponto{
+    float x;
+    float y;
+};
+
+//aloca e retorna um ponto com coordenadas "x" e "y"
+
+PONTO *pto_cria(float x, float y){
+    PONTO *p = (PONTO*) malloc(sizeof(PONTO));
+    if(p!=NULL){
+        p->x = x;
+        p->y = y;
+    }
+    return p;
+}
+
+void pto_libera(PONTO *P){
+    free(p);
+}
+
+

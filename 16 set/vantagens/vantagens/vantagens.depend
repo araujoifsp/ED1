@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1663943772 source:e:\ifsp\2º semestre\ed1\tad\vantagens\vantagens\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vantagens.h"
+
+1663943742 e:\ifsp\2º semestre\ed1\tad\vantagens\vantagens\vantagens.h
+
+1663972722 source:i:\ifsp\2º semestre\ed1\tad\vantagens\vantagens\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vantagens.h"
+
+1663972648 i:\ifsp\2º semestre\ed1\tad\vantagens\vantagens\vantagens.h
+
+1663972728 source:i:\ifsp\2º semestre\ed1\tad\vantagens\vantagens\vantagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vantagens.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663609900 source:e:\ifsp\2º semestre\ed1\tad\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calc.h"
+
+1663610116 e:\ifsp\2º semestre\ed1\tad\calculadora\calculadora\calc.h
+
+1663610054 source:e:\ifsp\2º semestre\ed1\tad\calculadora\calculadora\calc.c
+	<stdio.h>
+	<stdlib.h>
+	"Calc.h"
+
