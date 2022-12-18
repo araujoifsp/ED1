@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667787428 source:e:\ifsp\2º semestre\ed1\28out\listaestatica\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+
+1667787326 e:\ifsp\2º semestre\ed1\28out\listaestatica\listasequencial.h
+
+1667788418 source:e:\ifsp\2º semestre\ed1\28out\listaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listaSequencial.h"
+
